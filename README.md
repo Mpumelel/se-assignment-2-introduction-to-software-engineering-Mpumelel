@@ -6,14 +6,14 @@ Instructions:
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 
 Questions:
-Define Software Engineering:Software engineering is an engineering approach to software development. A practitioner, a software engineer, applies the engineering design process to develop software. The terms programmer and coder overlap software engineer, but they imply only the construction aspect of typical software engineer workload
+Define Software Engineering:-Software engineering is an engineering approach to software development. A practitioner, a software engineer, applies the engineering design process to develop software. The terms programmer and coder overlap software engineer, but they imply only the construction aspect of typical software engineer workload
 
 What is software engineering, and how does it differ from traditional programming?
-Software Development Life Cycle (SDLC):Software engineering involves advanced computer science and engineering skills that include programming, while programming focuses solely on software coding. Software development is the broader process of creating software, while software engineering emphasizes systematic, disciplined, and quantifiable approaches to software development. The Software Development Life Cycle (SDLC) is a structured process for planning, creating, testing, deploying, and maintaining software.
+Software Development Life Cycle (SDLC):-Software engineering involves advanced computer science and engineering skills that include programming, while programming focuses solely on software coding. Software development is the broader process of creating software, while software engineering emphasizes systematic, disciplined, and quantifiable approaches to software development. The Software Development Life Cycle (SDLC) is a structured process for planning, creating, testing, deploying, and maintaining software.
 
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
-Agile vs. Waterfall Models:Software Development Life Cycle Models
+Agile vs. Waterfall Models:-Software Development Life Cycle Models
 To this day, we have more than 50 recognized SDLC models in use. But None of them is perfect, and each brings its favorable aspects and disadvantages for a specific software development project or a team.
 
 1. Waterfall Model
@@ -23,7 +23,7 @@ It is the fundamental model of the software development life cycle. This is a ve
 The agile model in SDLC was mainly designed to adapt to changing requests quickly. The main goal of the Agile model is to facilitate quick project completion. The agile model refers to a group of development processes. These processes have some similar characteristics but also possess certain subtle differences among themselves.
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
-Requirements Engineering:Key Differences Between Agile and Waterfall
+Requirements Engineering:-Key Differences Between Agile and Waterfall
 Agile method emphasis on adaptability and flexibility. As against, in the waterfall technique, the control over cost and scheduling is more prior.
 Agile process steps are known as sprints while in the waterfall method the steps are known as the phases.
 Waterfall model does not allow the alteration and modification in the requirement specification. Conversely, in agile it is possible to add more requirements in the next sprint.
@@ -31,16 +31,16 @@ One should have a precise and clear vision about the project while using a water
 Waterfall model controls the changes in the project while agile implement the changes in the project.
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
-Software Design Principles:Requirements Engineering (RE) is a systematic process used in engineering projects to define, document, and maintain requirements. It involves gathering both functional and non-functional requirements from stakeholders. In the software development lifecycle, RE is a crucial first step that translates imprecise user needs into precise and formal specifications.Software Design Principles refer to fundamental concepts and guidelines that help create high-quality software. These principles guide the design and architecture of software systems, ensuring they are modular, maintainable, and efficient.
+Software Design Principles:-Requirements Engineering (RE) is a systematic process used in engineering projects to define, document, and maintain requirements. It involves gathering both functional and non-functional requirements from stakeholders. In the software development lifecycle, RE is a crucial first step that translates imprecise user needs into precise and formal specifications.Software Design Principles refer to fundamental concepts and guidelines that help create high-quality software. These principles guide the design and architecture of software systems, ensuring they are modular, maintainable, and efficient.
 
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
-Testing in Software Engineering:Modularity in software design refers to breaking down a system into smaller, self-contained components called modules. These modules encapsulate specific functionality, operate independently, and can be developed, maintained, and reused without affecting the rest of the system1. Benefits of modularity include23:
+Testing in Software Engineering:-Modularity in software design refers to breaking down a system into smaller, self-contained components called modules. These modules encapsulate specific functionality, operate independently, and can be developed, maintained, and reused without affecting the rest of the system1. Benefits of modularity include23:
 Organized and reusable code
 Parallel development and collaboration
 Efficient maintenance
 
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
-Version Control Systems:Different levels of software testing include:
+Version Control Systems:-Different levels of software testing include:
 Unit Testing: Testing individual components or functions to ensure they work correctly in isolation.
 Integration Testing: Testing interactions between different components to verify their combined functionality.
 System Testing: Testing the entire software system to ensure it meets requirements and functions as expected.
@@ -49,7 +49,7 @@ Testing is crucial in software development because12:
 It helps identify and fix defects early in the development process.
 
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
-Software Project Management:What is version control?
+Software Project Management:
 Version control, also known as versioning or source control, is the practice of managing changes to source code. It’s about keeping a detailed account of every modification made to the code, ensuring that these changes are both trackable and reversible. A crucial tool in every developer’s kit, version control systems are the bedrock of this process.
 
 Why version control matters in software development
@@ -84,7 +84,7 @@ Central version control hosts different versions of the code in a centralized re
 However, if the centralized repository becomes corrupted, retrieval can be difficult.
 
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
-Software Maintenance:What Is A Project Manager In Software?
+Software Maintenance:-What Is A Project Manager In Software?
 A project manager in software is responsible for leading a team of software developers and ensuring that software projects are completed on time, within budget, and to the satisfaction of the stakeholders. They are responsible for planning, executing, and closing projects. This involves defining project scope, creating schedules, allocating resources, managing risks, and monitoring progress.
 
  The project manager is also responsible for communicating with stakeholders, including clients, management, and team members, to ensure everyone is on the same page. They must have strong leadership skills, be able to manage competing priorities, and have a deep understanding of software development methodologies and tools. Overall, the role of a project manager in software is critical to ensuring the success of software projects.
@@ -131,7 +131,7 @@ Maintenance can be categorized into proactive and reactive types. Proactive main
 Maintenance can be performed by different stakeholders, including the original development team, an in-house maintenance team, or a third-party maintenance provider. Maintenance activities can be planned or unplanned. Planned activities include regular maintenance tasks that are scheduled in advance, such as updates and backups. Unplanned activities are reactive and are triggered by unexpected events, such as system crashes or security breaches. Software maintenance can involve modifying the software code, as well as its documentation, user manuals, and training materials. This ensures that the software is up-to-date and continues to meet the needs of its users.
 
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
-Ethical Issues in Software Development: Balancing Technical and Moral Responsibility
+Ethical Issues in Software Development:-Balancing Technical and Moral Responsibility
 What are the common ethical issues in software development? Let’s discuss the best approaches to handling difficult situations in the field.  
 
 The software industry is one of the biggest markets to date, amassing over $200 billion in revenue. And tech companies are continuously investing in their research and development to create more products and services. With several development projects on the way, the demand for software developers is drastically increasing.
